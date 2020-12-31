@@ -1,1 +1,14 @@
-comp
+KOKO components list
+1) ATtiny85
+2) i2c Oled display 0.96"
+3) PCB
+4) Socket 8 pin
+5) CR2032 battery
+6) Battery holder
+7) Buzzer
+8) Resistor 6,8k
+9) 4 Resistor 1k
+10) Led
+11) Toggle switch
+12) 3 Tactile push buttons (heights ?)
+13) 1 × header 6 pin 
