@@ -10,3 +10,5 @@ I made it because, after creating the Cobalt 3, I understood there are several h
 The goal is you can take it with you when you go out, it's small, it's in the shape of a credit card and you can play with it whenever you want.
 
 Project page: http://el9000.cc/projects
+
+Shop: https://www.tindie.com/products/el9000/koko-a-retro-game-console-kit-diy-and-hackable/
